@@ -7,6 +7,19 @@
 	  <Version>1.0.0.0</Version>
 	  <Authors>GreenJames</Authors>
 	  <Company>GreenJamesDev</Company>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	  <RepositoryUrl>https://github.com/GreenJamesDev/ConsoleFlags</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <PackageTags>csharp;console;color;flags;core</PackageTags>
+	  <PackageProjectUrl>https://github.com/GreenJamesDev/ConsoleFlags</PackageProjectUrl>
+	  <Description>ConsoleFlags is a .NET Core library that I created for my own convenience. It's desgined to make any .NET console application look more vivid and easier to read. It has a few premade flags such as SUCCESS or ERROR, as well as the ability to make your own flags that fit your own needs.</Description>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
