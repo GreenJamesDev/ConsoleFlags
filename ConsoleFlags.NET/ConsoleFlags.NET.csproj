@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <NeutralLanguage>en-US</NeutralLanguage>
+	  <PackageId>ConsoleFlagsNET</PackageId>
+	  <Version>1.0.0.0</Version>
+	  <Authors>GreenJames</Authors>
+	  <Company>GreenJamesDev</Company>
   </PropertyGroup>
 
 </Project>
