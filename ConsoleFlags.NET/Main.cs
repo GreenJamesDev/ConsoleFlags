@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleFlags.NET
+namespace ConsoleFlagsNET
 {
     public static class ConsoleFlags
     {

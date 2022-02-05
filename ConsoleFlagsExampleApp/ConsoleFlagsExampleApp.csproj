@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ConsoleFlags.NET">
+      <HintPath>..\ConsoleFlags.NET\bin\Release\netcoreapp3.1\ConsoleFlags.NET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
