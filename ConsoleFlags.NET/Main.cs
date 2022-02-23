@@ -56,7 +56,7 @@ namespace ConsoleFlagsNET
         /// Used to write a message to the console with a custom flag.
         /// </summary>
         /// <param name="flag_text">The text that appears within the console flag.</param>
-        /// <param name="input">The text the appear beside the flag.</param>
+        /// <param name="input">The text the appears beside the flag.</param>
         /// <param name="color">The color of the flag text.</param>
         public static void WriteCustom(string flag_text, string input, ConsoleColor color)
         {
